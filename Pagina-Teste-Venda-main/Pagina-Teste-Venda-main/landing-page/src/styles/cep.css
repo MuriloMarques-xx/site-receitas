@@ -1,0 +1,48 @@
+#cep-section {
+    padding: 20px;
+    background-color: #f9f9f9; /* Cor de fundo leve */
+    border-radius: 8px; /* Bordas arredondadas */
+    margin: 20px 0; /* Margem superior e inferior */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
+
+#cep-section h2 {
+    font-size: 24px; /* Tamanho da fonte do título */
+    margin-bottom: 15px; /* Espaçamento abaixo do título */
+}
+
+#cep-input {
+    padding: 10px; /* Espaçamento interno */
+    width: 50%; /* Largura do campo de entrada */
+    max-width: 500px; /* Largura máxima */
+    border: 1px solid #ccc; /* Borda cinza */
+    border-radius: 5px; /* Bordas arredondadas */
+    margin-right: 10px; /* Espaçamento à direita */
+}
+
+#cep-button {
+    padding: 10px 15px; /* Espaçamento interno do botão */
+    background-color: #e9a209; /* Cor de fundo verde */
+    color: white; /* Cor do texto */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    transition: background-color 0.3s; /* Transição suave para a cor de fundo */
+}
+
+#cep-button:hover {
+    background-color: #c9921b; /* Cor de fundo mais escura ao passar o mouse */
+}
+
+#cep-result {
+    margin-top: 15px; /* Espaçamento acima dos resultados */
+    padding: 10px; /* Espaçamento interno */
+    border: 1px solid #ccc; /* Borda cinza */
+    border-radius: 5px; /* Bordas arredondadas */
+    background-color: #fff; /* Cor de fundo branca */
+}
+.cep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
