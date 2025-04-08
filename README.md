@@ -21,8 +21,6 @@ O site oferece **imagens em destaque de algumas receitas chamativas**, o mesmo t
 
 ## 🖼️ Preview
 
-(Coloque aqui uma imagem ou link para um vídeo/gif mostrando o site em funcionamento)
-
 - Pra computador : 
 
 ![image](https://github.com/user-attachments/assets/81281340-6278-4134-98a2-b4cb29e0dc06)
